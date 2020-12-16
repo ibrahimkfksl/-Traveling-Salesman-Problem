@@ -1,0 +1,11 @@
+--------------------------------------------
+--------------------------------------------
+
+------En Iyi Yol------
+Mesafe: 1067
+Guzergah:Kocaeli-Sakarya-Bilecik-Kutahya-Afyonkarahisar----Afyonkarahisar-Eskisehir-Ankara----Ankara-Bolu-Sakarya-Kocaeli----
+--------------------------------------------
+--------------------------------------------
+------Altarnetif Yol 1 --------
+Mesafe: 1067
+Guzergah:Kocaeli-Sakarya-Bolu-Ankara----Ankara-Eskisehir-Afyonkarahisar----Afyonkarahisar-Kutahya-Bilecik-Sakarya-Kocaeli----
